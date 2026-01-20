@@ -1,3 +1,25 @@
-This website is used to blog our (Hydragon09 and my) ideas and interesting facts. 
-The contents vary from crypto to health to even travel tips. 
-Most of the code will be plain HTML. 
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mindhives philosophy</title>
+
+</head>
+
+<body>
+<h1>Mindhives philosophy</h1>
+
+<a href="Mindhiveshomepage.html" target="_blank"> Mindhives homepage</a>&ensp;&ensp;&ensp;<a href="MindhivesbasicHTMLcodes.html" target="_blank">Mindhives basic HTML codes</a>&ensp;&ensp;&ensp;<a href="Mindhivesphilosophy.html" target="_blank">Mindhives philosophy</a>
+<hr>
+<br><br>This website is used to blog our (Hydragon09 and my) ideas and interesting facts. 
+<br>The contents vary from crypto to health to even travel tips. 
+<br>Most of the code will be plain HTML. 
+
+</body>
+
+</html>
+
+
