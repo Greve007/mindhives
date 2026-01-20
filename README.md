@@ -5,12 +5,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Mindhives philosophy</title>
+<title>Mindhives</title>
 
 </head>
 
 <body>
-<h1>Mindhives philosophy</h1>
+<h1>Mindhives</h1>
 
 <a href="Mindhiveshomepage.html" target="_blank"> Mindhives homepage</a>&ensp;&ensp;&ensp;<a href="MindhivesbasicHTMLcodes.html" target="_blank">Mindhives basic HTML codes</a>&ensp;&ensp;&ensp;<a href="Mindhivesphilosophy.html" target="_blank">Mindhives philosophy</a>
 <hr>
