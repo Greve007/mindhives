@@ -14,7 +14,7 @@ ________________________________________________________________________________
 <body>
 <h1>Title</h1>
 
-<a href="index.html">Mindhives homepage</a>&ensp;&ensp;&ensp;<a href="page1.html" target="_blank">Basic HTML codes</a>&ensp;&ensp;&ensp;<a href="pageX" target="_blank">Philosophy</a>&ensp;&ensp;&ensp;<
+<a href="index.html">Mindhives homepage</a>&ensp;&ensp;&ensp;<a href="page1.html" target="_blank">Basic HTML codes</a>&ensp;&ensp;&ensp;<a href="page3" target="_blank">Philosophy</a>&ensp;&ensp;&ensp;<a href="page2" target="_blank">News</a>&ensp;&ensp;&ensp;<a href="page4" target="_blank">Crypto</a>
 <hr>
 
 </body>
@@ -39,6 +39,7 @@ ________________________________________________________________________________
 <hr>
 </body>
 __________________________________________________________________________________________________________________________________________________
+
 
 
 
