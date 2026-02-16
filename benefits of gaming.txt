@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Philosophy article 3</title>
+
+<style> 
+body{
+height: 100vh;
+width: 100vw;
+place-items: center;
+}
+
+#item1{
+max-width: 35%;
+max-height: 100%;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="item1">
+
+<h1>Cognitive benefits of balanced gaming</h1>
+<hr>
+<a href="crypto.html">see all posts</a>&ensp;&ensp;&ensp;<i>Writer: Greve007&ensp;&ensp;&ensp;22 January 2026&ensp;&ensp;&ensp;Reviewed by: Hydragon09</i>
+<br><br><br>
+
+<h2>Introduction</h2>
+<p>
+Worldwide, about 3.2 billion people play video games (<a href="https://www.trade.gov/media-entertainment-video-games-sector" target="_blank">Int. trade adm.</a>, <a href="https://www.demandsage.com/gamers-statistics/" target="_blank">Demandsage</a>). 
+<br><br><img scr="https://raw.githubusercontent.com/greve007/mindhives/main/images/globalgamersperyear.webp" "width="100%" height="100%">
+<br><i>This picture shows the increase in gamers over the years.</i>
+<br><br>
+Games range from simple mobile games, such as Candy Crush, to hardcore PC games like League of Legends. There is a strong stigma around video games, being called addictive, bringing aggressive behaviour out of people, and being bad for the brain due to its dopamine release. 
+<br><br>
+I completely disagree with the idea that gaming is purely bad for an individual. In fact, I think gaming can have a beneficial cognitive impact if used in moderation. As an anecdote, I learned to speak, read and write English fluently almost entirely by gaming with friends and random online people (Dutch is my native language). Furthermore, I have learned to assess certain situations differently in real-life scenario's, choosing patience over an instant reaction. 
+<br><br>
+Gaming can be bad when used in an unbalanced number of hours. 1-4 hours of gaming can be healthy, whereas 5-10 hours feel really unhealthy. 5-10 hours will have negative effects on your physique, dopamine levels and daily rhythm. 
+<br><br>
+<i>*Tip: Standing up every hour and remembering to drink water now and then will go a long way to staying healthy whilst gaming.</i>
+</p>
+
+<h2>Benefits of gaming (<i>From my perspective</i>)</h2>
+<p>
+I think there are various benefits for gaming if done balanced. With balanced I mean less than 5 hours per day, with regular short intervals and other occupations next to gaming (e.g. sports, crafting, etc.). 
+<br><br>
+First of all there are cognitive benefits. As an individual you can learn endless things from gaming. As stated in the introduction, I have learned the English language almost entirely from video games. Additionally I think certain video games challenge you by providing problems for you to solve and make you analyse complex situations, and let you make difficult decisions based on complicated scenario's. With the active interactions and real-time consequences, this stimulates an individual's ability to make well thought decisions by putting specific variables together in logical order. These abilities can definitely be used in real life cases (e.g. policing, policy negotiations, lawful decisions). 
+<br><br>
+<img scr="https://raw.githubusercontent.com/greve007/mindhives/main/images/riskgame.png" "width="100%" height="100%"> 
+<br><i>Originally Risk as a board game, but now digitalised as a video game. This game improves strategic decision making by using the perspectives of all your enemies.</i>
+<br><br>
+Apart from cognitive benefits, certain games can have practical benefits as well. A massive gaming branch is simulations (e.g. Farming simulator, survival simulations, driving games). Although these games are not directly hands on, they offer a strong learning process in a specific category. From real use terminology to practical usage. For example, when my friends and I drive through the country side of Europe, we spot farming equipment and know the names of specific machines. I have played many survival simulations and have learned how I can start fires, what food we can eat as humans, how to set traps for animals and how I can build a tent and a bed (and also why these things are important in real cases). 
+<br><br>
+<img scr="https://raw.githubusercontent.com/greve007/mindhives/main/images/sonsoftheforest.png" "width="100%" height="100%"">
+<br><i>This game (Sons of the Forest) is a horror/survival game. In this picture the player has made a campfire.</i>
+</p>
+<br>
+<h2>A few cons to gaming</h2>
+<p>
+There are definitely a few negative sides to gaming. But this mainly has to do with 'overdosing' on time spent gaming. Being unbalanced essentially. And mentally games can become extreme and frustrating if not played with the correct mindset.
+<br><br>
+My most played game is League of Legends, with about 4000 hours. And that is not considering the other games that I have played in my life. Through all these hours I've seen many different emotions and I learned that the mindset changes everything. First of all, it's a game. Second of all, enjoy it, even when the gameplay doesn't go the way you planned. 
+<br><br>
+One way to look at gaming is enjoying the strategy and learning how to become better. Another way to play it is by fooling around, not taking anything serious. Most of the time you have specific game modes for team based games (e.g. competitive, unranked, quick play). It of course depends on the game you're playing. 
+<br><br>
+The other negative thing about gaming is that it can consume a lot of your time. This is especially an issue, I would say, for younger people. Here are my thoughts on this. First and foremost, just like my parents (and most others do it), give your child a specific time to play on the computer. If you want to be less on the PC, then try setting a timer or taking the cable out (making it harder for you to turn the computer on than to do something else). 
+<br><br>
+I heard someone say: 'Games keep kids motivated, because it provides real-time consequences. Whereas schoolwork barely has any consequences, until the deadline. 
+<br>
+So I think it is important to find an occupation/hobby that provides real-time consequences, just like a video game, to keep you motivated.
+</p>
+<br>
+<h2>Where I stand in all this</h2>
+<p>
+As an active gamer and someone who has experienced both viewpoints, I can accurately say that gaming has significant benefits that outweigh the negative sides. Cognitive benefits (e.g. decision making, problem solving), practical and real life skills from simulations, and learning languages. 
+<br><br>
+I have talked about issues when it comes to gaming as a child and young adult. I myself and some of my friends have experienced having an unbalanced gaming life. This is definitely concerning and should be seen as a serious problem. 
+<br><br>
+But when you find balance and realise yourself in all this, video games will be beneficial for personal development.
+</p>
+<br><br><br><br><br><br><br><br><br><br>
+</div>
+</body>
+
+
+</html>
